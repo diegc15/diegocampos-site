@@ -1,0 +1,47 @@
+---
+title: "Presentations"
+---
+
+## Invited Talks
+
+**Campos, D. G.** (2025). Research Synthesis After the Reproducibility and Open Science Reforms: How do Systematic Review and Meta-Analysis Practices in Education Need to Adapt? *University of Amsterdam*.
+
+**Campos, D. G.** (2025). AIRES: Accelerating Research Synthesis in Educational Sciences. *Norwegian Institute of Public Health*.
+
+**Campos, D. G.** (2022). Synthesizing Individual Participant Data Obtained From Complex Sampling Surveys: A Two-Stage IPD Meta-Analysis Approach. *AERA Special Interest Group in Systematic Reviews and Meta-Analysis, Online Seminar*. [Recording](https://www.youtube.com/watch?v=rVggoVOFJO8&t=4s)
+
+---
+
+## Conference Presentations
+
+**Campos, D. G.**, Sandsør, A., & Scherer, R. (2026). Family Income Dynamics and Academic Achievement in Norway: Evidence from Population-Level Longitudinal Data. *22nd Conference in Educational Assessment*.
+
+**Campos, D. G.**, Koskinen, A., Munkácsy, B., Rolfe, V., Patsis, P., Tóth, E., Olsen, R. V., Scherer, R., Söldner, L., Danek, A. H., Greiff, S., & Vainikainen, M.-P. (2026). Educational inequalities in Europe: A scoping review of longitudinal studies in K-12 education. *22nd Conference in Educational Assessment*.
+
+**Campos, D. G.**, Cheung, M.-W., & Scherer, R. (2023). Synthesizing Contextual Effects: A Comparison of the Two-Stage Meta-Analytic and One-Stage Multilevel Modeling Approaches in the Presence of Individual Participant Data. *Frontier Research in Educational Measurement*.
+
+**Campos, D. G.**, Fütterer, T., Gfrörer, T., Lavelle-Hill, R., Murayama, K., König, L., Hecht, M., Zitzmann, S., & Scherer, R. (2023). Assessing the Performance of ASReview for Abstract Screening in Systematic Reviews in Education: A Benchmarking and Evaluation Project. *Research Synthesis and Big Data Conference*.
+
+**Campos, D. G.**, Cheung, M.-W., & Scherer, R. (2022). Synthesizing research on complex sampling surveys: Two-stage meta-analysis with individual participant data. *International Meeting of the Psychometric Society (IMPS)*.
+
+**Campos, D. G.** & Scherer, R. (2022). Exploring the Role of Attitudes Toward ICT in the Gender Digital Divide: An Analysis with International Large-Scale Assessment Data. *Nordic Educational Research Association (NERA)*.
+
+**Campos, D. G.**, Kharlamov, A., & Scherer, R. (2022). Assessing Mindsets: A Meta-Analysis of the Reliability and Factor Structure of Dweck's Mindset Scale. *AERA Annual Meeting*.
+
+**Campos, D. G.**, Cheung, M.-W., & Scherer, R. (2021). Meta-Analyzing International Large-Scale Assessment Data: An Application of the Split, Analyze, and Meta-Analyze (SAM) Approach. *Research Synthesis and Big Data Conference*.
+
+**Campos, D. G.**, Cheung, M.-W., & Scherer, R. (2021). When Meta-Analysis Meets International Large-Scale Assessment Data: Applications of the Two-Stage IPD Meta-Analysis Approach. *9th IEA International Research Conference*.
+
+**Gonzalez-Campos, D. A.** & Corredor, J. (2016). The Role of the Body in Sensory Integration Between A-Modal and Smell Stimuli. *APA Annual Convention*.
+
+**Gonzalez-Campos, D. A.**, Corredor, J., Cristancho, J., Hurtado, R., & Useche, J. (2015). Towards the Development of an Emotion Model Based on Colour Properties. *XXXV Inter-American Conference of Psychology*.
+
+---
+
+## Outreach & Community Events
+
+Teig, N., **Campos, D. G.**, Ye, W., & Van De, V. (2024). Systematic Reviews. *ESERA SIG 6, Methods Journal Club*.
+
+**Campos, D. G.** (2021). Introduction to Meta-Analyses of Structural Equation Models with {metaSEM}. *Use R Oslo*. [Recording](https://www.youtube.com/watch?v=xyfIt2iNTu0&t=11s)
+
+**Campos, D. G.** (2021). A Quest for the Factors Associated with Collaborative Problem-Solving. *Get To Know CEMO*.

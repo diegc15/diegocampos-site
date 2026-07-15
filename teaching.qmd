@@ -1,0 +1,41 @@
+---
+title: "Teaching"
+---
+
+## University Courses
+
+**MAE4112** — Multilevel Models
+*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
+[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4112/)
+
+**MAE4000** — Data Science
+*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
+[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4000/)
+
+**MAE4050** — Current Topics and Debates in Assessment and Evaluation
+*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
+[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4050/)
+
+**MAE4051** — Selected Topics in Educational Measurement
+*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
+[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4051/)
+
+**MAE4221** — Research Seminar I: Researcher's Skills
+*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
+[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4221/)
+
+**MAE4231** — Research Seminar II: Researcher's Skills and Professional Communication
+*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
+[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4231/)
+
+---
+
+## Workshops
+
+**Campos, D. G.** (2025). A Hands-On Workshop for Meta-Analyses in Social, Behavioral, or Educational Research. *University of Amsterdam*, Netherlands.
+
+Scherer, R. & **Campos, D. G.** (2025). Meta-Analysis in Education: From Theory to Practice with R. *Technical University Dortmund*, Germany.
+
+Fütterer, T., Gförer, T., & **Campos, D. G.** (2024). AI Tools for Systematic Reviews and Meta-Analyses. *Federal Institute for Vocational Education and Training*, Germany. *(Online)*
+
+Scherer, R. & **Campos, D. G.** (2024). A Hands-On Workshop for Meta-Analyses in Educational Research. *Quantitative Research Methods Conference (QRM 2024), University of Gothenburg*, Sweden.

@@ -1,0 +1,41 @@
+---
+title: "Research"
+---
+
+My research sits at the intersection of **methodology** and **educational science**. I develop and apply advanced quantitative methods — primarily research synthesis techniques — to study educational inequalities and the factors that shape learning outcomes.
+
+---
+
+## Current Projects
+
+### AIRES — AI-Assisted Research Synthesis in Educational Sciences
+
+I am developing AIRES, a suite of AI-assisted tools designed to make systematic evidence syntheses more efficient, transparent, and reproducible. The project addresses key bottlenecks in evidence synthesis workflows — from title/abstract screening to data extraction — using machine learning and large language models calibrated to the standards of rigorous systematic review methodology.
+
+### IPD Meta-Analysis Methodology
+
+I develop and evaluate individual participant data meta-analysis (IPD-MA) approaches, with a focus on integrating data from complex sampling surveys such as international large-scale assessments (PISA, ICILS, TIMSS). This work bridges methodological gaps between survey statistics and research synthesis, producing more nuanced estimates of educational effects.
+
+### Educational Inequalities in Europe
+
+In collaboration with international partners, I study educational inequalities across European school systems. Current work includes a large-scale scoping review of longitudinal studies in K-12 education examining how individual, family, and school factors shape learning trajectories over time.
+
+### AI Tools for Evidence Synthesis
+
+I investigate how AI tools — including active learning systems like ASReview — can be integrated responsibly into systematic review pipelines. This includes benchmarking screening algorithms, developing and evaluating stopping rules, and assessing the reliability of AI-assisted decisions.
+
+### Digital Competence and Gender Gaps
+
+I study gender disparities in students' digital knowledge, attitudes, and skills using integrative data analysis across international datasets. This work examines the structural and contextual factors that sustain or reduce the digital gender gap in education.
+
+---
+
+## Methodological Expertise
+
+- Meta-analysis and systematic reviews
+- Individual Participant Data (IPD) meta-analysis
+- Multilevel modeling
+- Structural equation modeling and meta-SEM
+- Machine learning for evidence synthesis
+- International Large-Scale Assessments (PISA, ICILS, TIMSS, PIRLS)
+- R (primary statistical environment)

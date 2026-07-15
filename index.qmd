@@ -1,0 +1,102 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+:::: {.columns .hero-section}
+
+::: {.column width="30%"}
+![](assets/images/profile.jpg){.profile-photo fig-alt="Diego G. Campos"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+
+# Diego G. Campos {.hero-name}
+
+**Associate Professor**
+[Knowledge Centre for Education (KSU)](https://www.uis.no/en/research/knowledge-centre-for-education)
+University of Stavanger, Norway
+
+---
+
+I develop and evaluate novel methodological approaches to research synthesis to improve the efficiency, transparency, and policy relevance of systematic reviews and meta-analyses. An important part of my work focuses on **meta-analysis** and **individual participant data meta-analysis (IPD-MA)**, and their application to the study of **educational inequalities**. I also develop **AI-assisted tools** to make systematic evidence syntheses more efficient, transparent, and reproducible.
+
+---
+
+::: {.contact-links}
+[{{< fa envelope >}} diego.a.campos@uis.no](mailto:diego.a.campos@uis.no){.btn .btn-outline-primary .btn-sm}
+[{{< fa brands github >}} GitHub](https://github.com/diegc15){.btn .btn-outline-secondary .btn-sm}
+[{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/in/diego-g-campos-55844872/){.btn .btn-outline-secondary .btn-sm}
+[{{< fa cloud >}} Bluesky](https://bsky.app/profile/diegc.bsky.social){.btn .btn-outline-secondary .btn-sm}
+:::
+
+:::
+
+::::
+
+---
+
+## Research Interests
+
+:::: {.columns}
+
+::: {.column width="30%"}
+### 📊 Research Synthesis
+Meta-analysis, IPD meta-analysis, systematic reviews, and evidence synthesis methodology.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+### 🎓 Educational Inequalities
+How individual, family, and school factors shape learning outcomes across countries.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+### 🤖 AI in Research
+AI-assisted tools for systematic reviews: screening automation, reproducibility, and transparency.
+:::
+
+::::
+
+---
+
+## Recent News
+
+:::: {.news-section}
+
+::: {.news-item}
+**2026** — Three book chapters *in press* in *Studying Educational Inequality from a Longitudinal Perspective* (eds. Hansen, Klapp & Rolfe), including a chapter on family income dynamics and academic outcomes in Norway.
+:::
+
+::: {.news-item}
+**2026** — New paper in *Advances in Methods and Practices in Psychological Science*: [Fast-Track Your Abstract Screening: Mastering ASReview](https://doi.org/10.1177/25152459261442150)
+:::
+
+::: {.news-item}
+**2026** — New paper in *Learning and Individual Differences*: [AI tools for systematic literature reviews and meta-analyses in educational psychology](https://doi.org/10.1016/j.lindif.2025.102849)
+:::
+
+::: {.news-item}
+**2025** — Awarded the **H.M. Kongens Gullmedalje** (The King's Gold Medal) for the PhD thesis *Approaches to Integrating Large Data into Systematic Reviews and Meta-Analyses in Education*.
+:::
+
+::: {.news-item}
+**2025** — Awarded the **GEBF Junior Publication Prize** by the Society for Empirical Educational Research.
+:::
+
+::: {.news-item}
+**2024–2028** — Work Package Coordinator for **MapIE** (Mapping of Longitudinal Data of Inequalities in Education), EU Horizon Europe grant (€2,999,644.75).
+:::
+
+::::
+
+[See all publications →](publications.qmd){.btn .btn-primary .mt-2}

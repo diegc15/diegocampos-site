@@ -1,0 +1,23 @@
+---
+title: "Supervision"
+---
+
+## Current
+
+**Yoon, S.** (present). A Systematic Review of Learning Analytics: Intervention Effectiveness and Application Characteristics in K-12 Mathematics and Language Arts Education. *Postdoctoral project*. University of Stavanger. [Profile](https://www.uis.no/nb/profile/sang-won-yoon)
+
+**Løkken, J.** (present). Impact of Data Dependencies on Machine-Learning-Informed Moderator Selection in Meta-Analysis. *Doctoral project*. University of Oslo. [Project page](https://www.uv.uio.no/cemo/forskning/prosjekter/impact-of-data-dependencies-on-machine-learning-in/index.html)
+
+---
+
+## Completed
+
+**Umrit, S.** (2026). An Intersectional Analysis of Cognitive Skills Proficiency Among Norwegian Higher Education Graduates Using PIAAC Data 2023. *Master Thesis*.
+
+**Mannsaaker, T.** (2025). Unravelling Norway's Mathematics Decline: A Cross-Country Decomposition of Socioemotional Drivers and Classroom Dynamics in PISA 2022. *Master Thesis*.
+
+**Pasha, M.** (2024). Cross-National Variations in Self-Efficacy and Attitudes Towards ICT Use in Teaching: An Integrative Data Analysis Across ICILS Countries. *Master Thesis*.
+
+**Yousufzai, M.** (2022). The Relation between Mathematics Anxiety and Achievement: A Study of the Moderating Role of Immigration Background on PISA 2012 Norwegian Students. *Master Thesis*.
+
+**Kharlamov, A.** (2021). Do Growth and Fixed Mindsets Go Together? Meta-analysis. *Master Thesis*.

@@ -1,0 +1,55 @@
+---
+title: "Publications"
+---
+
+## Under Review
+
+Patsis, P., **Campos, D. G.**, & Scherer, R. (*under review*). Educational Inequality Across Countries: An Integrative Data Analysis of TIMSS 2023 Data.
+
+Maurer, M., **Campos, D. G.**, Gowenlock, A., Norbury, C., & Melby-Lervåg, M. (*under review*). The Relationship Between Socioeconomic Factors and Parent's and Child Oral Language: A Systematic Review and Meta-Analysis.
+
+Rémeau, M., Olsen, R., Scherer, R., & **Campos, D. G.** (*under review*). The Roles of Parenting and Motivational Resources for Socioeconomic Inequalities in Academic Achievement in Early Adolescence.
+
+---
+
+## Journal Articles
+
+Fütterer, T., König, L., **Campos, D. G.**, Scherer, R., Zitzmann, S., & Hecht, M. (2026). Fast-Track Your Abstract Screening: Mastering ASReview for Accelerating Abstract Screening and Evaluating Decisions From Automatic-Screening Methods. *Advances in Methods and Practices in Psychological Science*, 9(2). <https://doi.org/10.1177/25152459261442150>
+
+Fütterer, T., **Campos, D. G.**, Gfrörer, T., Lavelle-Hill, R., Murayama, K., & Scherer, R. (2026). AI tools for systematic literature reviews and meta-analyses in educational psychology: An overview and a practical guide. *Learning and Individual Differences*, 126, 102849. <https://doi.org/10.1016/j.lindif.2025.102849>
+
+Scherer, R., **Campos, D. G.**, Fütterer, T., & Siddiq, F. (2026). Unraveling Gender Disparities in Teachers' Technological Pedagogical and Content Knowledge: A Large-Scale Meta-Analytic Review. *Educational Research Review*, 100765. <https://doi.org/10.1016/j.edurev.2026.100765>
+
+**Campos, D. G.**, Koskinen, A., Munkácsy, B., Rolfe, V., Patsis, P., Tóth, E., Olsen, R., Scherer, R., Söldner, L., Danek, A. H., Greiff, S., & Vainikainen, M.-P. (2025). Educational inequalities in Europe: A scoping review of longitudinal studies in K-12 education. *Studies in Educational Evaluation*, 87, 101523. <https://doi.org/10.1016/j.stueduc.2025.101523>
+
+Scherer, R., & **Campos, D. G.** (2025). Meta-Analyzing Correlation Matrices in the Presence of Hierarchical Effect Size Multiplicity. *Research Synthesis Methods*, 1–31. <https://doi.org/10.1017/rsm.2025.10027>
+
+**Campos, D. G.**, Fütterer, T., Gfrörer, T., Lavelle-Hill, R., Murayama, K., König, L., Hecht, M., Zitzmann, S., & Scherer, R. (2024). Screening Smarter, Not Harder: A Comparative Analysis of Machine Learning Screening Algorithms and Heuristic Stopping Criteria for Systematic Reviews in Educational Research. *Educational Psychology Review*, 36, 19. <https://doi.org/10.1007/s10648-024-09862-5>
+
+König, L., Zitzmann, S., Fütterer, T., **Campos, D. G.**, Scherer, R., & Hecht, M. (2024). An evaluation of the performance of stopping rules in AI-aided screening for psychological meta-analytical research. *Research Synthesis Methods*. <https://doi.org/10.1002/jrsm.1762>
+
+**Campos, D. G.**, & Scherer, R. (2023). Digital Gender Gaps in Students' Knowledge, Attitudes and Skills: An Integrative Data Analysis Across 32 Countries. *Education and Information Technologies*. <https://doi.org/10.1007/s10639-023-12272-9>
+
+**Campos, D. G.**, Cheung, W.-L. M., & Scherer, R. (2023). A Primer on Synthesizing Individual Participant Data Obtained From Complex Sampling Surveys: A Two-Stage IPD Meta-Analysis Approach. *Psychological Methods*. <https://doi.org/10.1037/met0000539>
+
+Scherer, R., & **Campos, D. G.** (2022). Measuring those who have their minds set: An item-level meta-analysis of the implicit theories of intelligence scale in education. *Educational Research Review*, 37, 100479. <https://doi.org/10.1016/j.edurev.2022.100479>
+
+**González-Campos, D.**, Olarte, D. F., & Corredor, J. A. (2017). La alfabetización tecnológica: de la informática al desarrollo de competencias tecnológicas. *Estudios pedagógicos*, 43(1), 193–212. <https://dx.doi.org/10.4067/S0718-07052017000100012>
+
+---
+
+## Book Chapters
+
+**Campos, D. G.**, Sandsør, A., & Scherer, R. (*in press*). Do Income Fluctuations Matter in Egalitarian Societies? Family Income Dynamics and Academic Outcomes in Norway. In Hansen, K., Klapp, A., & Rolfe, V. (Eds.), *Studying Educational Inequality from a Longitudinal Perspective: Data, Methods, Findings and Implications*.
+
+Elmers, H., Nyman, L., **Campos, D. G.**, Glassow, L., & Edit, T. (*in press*). Educational Inequalities Across Five European Education Systems: A Macro-Meso-Micro Perspective. In Hansen, K., Klapp, A., & Rolfe, V. (Eds.), *Studying Educational Inequality from a Longitudinal Perspective: Data, Methods, Findings and Implications*.
+
+Lintuvuori, M., Marjanen, J., **Campos, D. G.**, Victoria, R., Fischer, M., Söldner, L., Molnár, G., & Pásztor, A. (*in press*). Longitudinal datasets in this volume. In Hansen, K., Klapp, A., & Rolfe, V. (Eds.), *Studying Educational Inequality from a Longitudinal Perspective: Data, Methods, Findings and Implications*.
+
+Wirts, C., Reber, K., & **Gonzalez-Campos, D.** (2020). SpraBi: Fragebogen und App zur Dokumentation sprachlicher Bildungsaktivitäten in der Kita. In K. Mackowiak, C. Beckerle, S. Gentrup, & C. Titz (Eds.), *Forschungsinstrumente im Kontext institutioneller (schrift-)sprachlicher Bildung* (pp. 55–78). Bad Heilbrunn: Verlag Julius Klinkhardt. <https://doi.org/10.35468/5801_04>
+
+---
+
+## Doctoral Thesis
+
+**Campos, D. G.** (2024). *Approaches to Integrating Large Data into Systematic Reviews and Meta-Analysis in Education*. [Doctoral thesis, The University of Oslo]. DUO Research Archive.

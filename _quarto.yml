@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Diego G. Campos"
+  description: "Associate Professor | Knowledge Centre for Education, University of Stavanger"
+  site-url: https://www.diegocampos.co
+  favicon: assets/favicon.ico
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations
+      - href: teaching.qmd
+        text: Teaching
+      - href: supervision.qmd
+        text: Supervision
+      - href: grants.qmd
+        text: Awards & Grants
+      - href: service.qmd
+        text: Service
+    right:
+      - icon: github
+        href: https://github.com/diegc15
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/diego-g-campos-55844872/
+        aria-label: LinkedIn
+      - icon: cloud
+        href: https://bsky.app/profile/diegc.bsky.social
+        aria-label: Bluesky
+
+  page-footer:
+    left: "© Diego G. Campos"
+    right:
+      - icon: github
+        href: https://github.com/diegc15
+      - icon: linkedin
+        href: https://www.linkedin.com/in/diego-g-campos-55844872/
+      - icon: cloud
+        href: https://bsky.app/profile/diegc.bsky.social
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
