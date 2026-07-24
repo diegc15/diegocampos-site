@@ -2,54 +2,251 @@
 title: "Publications"
 ---
 
+```{=html}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+```
+
 ## Under Review
 
-Patsis, P., **Campos, D. G.**, & Scherer, R. (*under review*). Educational Inequality Across Countries: An Integrative Data Analysis of TIMSS 2023 Data.
+```{=html}
+<div class="pub-list">
 
-Maurer, M., **Campos, D. G.**, Gowenlock, A., Norbury, C., & Melby-Lervåg, M. (*under review*). The Relationship Between Socioeconomic Factors and Parent's and Child Oral Language: A Systematic Review and Meta-Analysis.
+  <div class="pub-entry">
+    <div class="pub-year">review</div>
+    <div class="pub-content">
+      <div class="pub-title">Educational Inequality Across Countries: An Integrative Data Analysis of TIMSS 2023 Data</div>
+      <div class="pub-authors">Patsis, P., <strong>Campos, D. G.</strong>, &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>Manuscript under review</em></div>
+    </div>
+  </div>
 
-Rémeau, M., Olsen, R., Scherer, R., & **Campos, D. G.** (*under review*). The Roles of Parenting and Motivational Resources for Socioeconomic Inequalities in Academic Achievement in Early Adolescence.
+  <div class="pub-entry">
+    <div class="pub-year">review</div>
+    <div class="pub-content">
+      <div class="pub-title">The Relationship Between Socioeconomic Factors and Parent's and Child Oral Language: A Systematic Review and Meta-Analysis</div>
+      <div class="pub-authors">Maurer, M., <strong>Campos, D. G.</strong>, Gowenlock, A., Norbury, C., &amp; Melby-Lervåg, M.</div>
+      <div class="pub-journal"><em>Manuscript under review</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">review</div>
+    <div class="pub-content">
+      <div class="pub-title">The Roles of Parenting and Motivational Resources for Socioeconomic Inequalities in Academic Achievement in Early Adolescence</div>
+      <div class="pub-authors">Rémeau, M., Olsen, R., Scherer, R., &amp; <strong>Campos, D. G.</strong></div>
+      <div class="pub-journal"><em>Manuscript under review</em></div>
+    </div>
+  </div>
+
+</div>
+```
 
 ---
 
 ## Journal Articles
 
-Fütterer, T., König, L., **Campos, D. G.**, Scherer, R., Zitzmann, S., & Hecht, M. (2026). Fast-Track Your Abstract Screening: Mastering ASReview for Accelerating Abstract Screening and Evaluating Decisions From Automatic-Screening Methods. *Advances in Methods and Practices in Psychological Science*, 9(2). <https://doi.org/10.1177/25152459261442150>
+```{=html}
+<div class="pub-list">
 
-Fütterer, T., **Campos, D. G.**, Gfrörer, T., Lavelle-Hill, R., Murayama, K., & Scherer, R. (2026). AI tools for systematic literature reviews and meta-analyses in educational psychology: An overview and a practical guide. *Learning and Individual Differences*, 126, 102849. <https://doi.org/10.1016/j.lindif.2025.102849>
+  <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.1177/25152459261442150" target="_blank">Fast-Track Your Abstract Screening: Mastering ASReview for Accelerating Abstract Screening and Evaluating Decisions From Automatic-Screening Methods</a></div>
+      <div class="pub-authors">Fütterer, T., König, L., <strong>Campos, D. G.</strong>, Scherer, R., Zitzmann, S., &amp; Hecht, M.</div>
+      <div class="pub-journal"><em>Advances in Methods and Practices in Psychological Science</em>, 9(2).</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1177/25152459261442150" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
 
-Scherer, R., **Campos, D. G.**, Fütterer, T., & Siddiq, F. (2026). Unraveling Gender Disparities in Teachers' Technological Pedagogical and Content Knowledge: A Large-Scale Meta-Analytic Review. *Educational Research Review*, 100765. <https://doi.org/10.1016/j.edurev.2026.100765>
+  <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.1016/j.lindif.2025.102849" target="_blank">AI tools for systematic literature reviews and meta-analyses in educational psychology: An overview and a practical guide</a></div>
+      <div class="pub-authors">Fütterer, T., <strong>Campos, D. G.</strong>, Gfrörer, T., Lavelle-Hill, R., Murayama, K., &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>Learning and Individual Differences</em>, 126, 102849.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1016/j.lindif.2025.102849" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.**, Koskinen, A., Munkácsy, B., Rolfe, V., Patsis, P., Tóth, E., Olsen, R., Scherer, R., Söldner, L., Danek, A. H., Greiff, S., & Vainikainen, M.-P. (2025). Educational inequalities in Europe: A scoping review of longitudinal studies in K-12 education. *Studies in Educational Evaluation*, 87, 101523. <https://doi.org/10.1016/j.stueduc.2025.101523>
+  <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.1016/j.edurev.2026.100765" target="_blank">Unraveling Gender Disparities in Teachers' Technological Pedagogical and Content Knowledge: A Large-Scale Meta-Analytic Review</a></div>
+      <div class="pub-authors">Scherer, R., <strong>Campos, D. G.</strong>, Fütterer, T., &amp; Siddiq, F.</div>
+      <div class="pub-journal"><em>Educational Research Review</em>, 100765.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1016/j.edurev.2026.100765" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
 
-Scherer, R., & **Campos, D. G.** (2025). Meta-Analyzing Correlation Matrices in the Presence of Hierarchical Effect Size Multiplicity. *Research Synthesis Methods*, 1–31. <https://doi.org/10.1017/rsm.2025.10027>
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.1016/j.stueduc.2025.101523" target="_blank">Educational inequalities in Europe: A scoping review of longitudinal studies in K-12 education</a></div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Koskinen, A., Munkácsy, B., Rolfe, V., Patsis, P., Tóth, E., Olsen, R., Scherer, R., Söldner, L., Danek, A. H., Greiff, S., &amp; Vainikainen, M.-P.</div>
+      <div class="pub-journal"><em>Studies in Educational Evaluation</em>, 87, 101523.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1016/j.stueduc.2025.101523" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.**, Fütterer, T., Gfrörer, T., Lavelle-Hill, R., Murayama, K., König, L., Hecht, M., Zitzmann, S., & Scherer, R. (2024). Screening Smarter, Not Harder: A Comparative Analysis of Machine Learning Screening Algorithms and Heuristic Stopping Criteria for Systematic Reviews in Educational Research. *Educational Psychology Review*, 36, 19. <https://doi.org/10.1007/s10648-024-09862-5>
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.1017/rsm.2025.10027" target="_blank">Meta-Analyzing Correlation Matrices in the Presence of Hierarchical Effect Size Multiplicity</a></div>
+      <div class="pub-authors">Scherer, R., &amp; <strong>Campos, D. G.</strong></div>
+      <div class="pub-journal"><em>Research Synthesis Methods</em>, 1–31.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1017/rsm.2025.10027" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
 
-König, L., Zitzmann, S., Fütterer, T., **Campos, D. G.**, Scherer, R., & Hecht, M. (2024). An evaluation of the performance of stopping rules in AI-aided screening for psychological meta-analytical research. *Research Synthesis Methods*. <https://doi.org/10.1002/jrsm.1762>
+  <div class="pub-entry">
+    <div class="pub-year">2024</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.1007/s10648-024-09862-5" target="_blank">Screening Smarter, Not Harder: A Comparative Analysis of Machine Learning Screening Algorithms and Heuristic Stopping Criteria for Systematic Reviews in Educational Research</a></div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Fütterer, T., Gfrörer, T., Lavelle-Hill, R., Murayama, K., König, L., Hecht, M., Zitzmann, S., &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>Educational Psychology Review</em>, 36, 19.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1007/s10648-024-09862-5" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.**, & Scherer, R. (2023). Digital Gender Gaps in Students' Knowledge, Attitudes and Skills: An Integrative Data Analysis Across 32 Countries. *Education and Information Technologies*. <https://doi.org/10.1007/s10639-023-12272-9>
+  <div class="pub-entry">
+    <div class="pub-year">2024</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.1002/jrsm.1762" target="_blank">An evaluation of the performance of stopping rules in AI-aided screening for psychological meta-analytical research</a></div>
+      <div class="pub-authors">König, L., Zitzmann, S., Fütterer, T., <strong>Campos, D. G.</strong>, Scherer, R., &amp; Hecht, M.</div>
+      <div class="pub-journal"><em>Research Synthesis Methods</em>.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1002/jrsm.1762" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.**, Cheung, W.-L. M., & Scherer, R. (2023). A Primer on Synthesizing Individual Participant Data Obtained From Complex Sampling Surveys: A Two-Stage IPD Meta-Analysis Approach. *Psychological Methods*. <https://doi.org/10.1037/met0000539>
+  <div class="pub-entry">
+    <div class="pub-year">2023</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.1007/s10639-023-12272-9" target="_blank">Digital Gender Gaps in Students' Knowledge, Attitudes and Skills: An Integrative Data Analysis Across 32 Countries</a></div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>Education and Information Technologies</em>.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1007/s10639-023-12272-9" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
 
-Scherer, R., & **Campos, D. G.** (2022). Measuring those who have their minds set: An item-level meta-analysis of the implicit theories of intelligence scale in education. *Educational Research Review*, 37, 100479. <https://doi.org/10.1016/j.edurev.2022.100479>
+  <div class="pub-entry">
+    <div class="pub-year">2023</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.1037/met0000539" target="_blank">A Primer on Synthesizing Individual Participant Data Obtained From Complex Sampling Surveys: A Two-Stage IPD Meta-Analysis Approach</a></div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Cheung, W.-L. M., &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>Psychological Methods</em>.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1037/met0000539" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
 
-**González-Campos, D.**, Olarte, D. F., & Corredor, J. A. (2017). La alfabetización tecnológica: de la informática al desarrollo de competencias tecnológicas. *Estudios pedagógicos*, 43(1), 193–212. <https://dx.doi.org/10.4067/S0718-07052017000100012>
+  <div class="pub-entry">
+    <div class="pub-year">2022</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.1016/j.edurev.2022.100479" target="_blank">Measuring those who have their minds set: An item-level meta-analysis of the implicit theories of intelligence scale in education</a></div>
+      <div class="pub-authors">Scherer, R., &amp; <strong>Campos, D. G.</strong></div>
+      <div class="pub-journal"><em>Educational Research Review</em>, 37, 100479.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1016/j.edurev.2022.100479" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2017</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://dx.doi.org/10.4067/S0718-07052017000100012" target="_blank">La alfabetización tecnológica: de la informática al desarrollo de competencias tecnológicas</a></div>
+      <div class="pub-authors"><strong>González-Campos, D.</strong>, Olarte, D. F., &amp; Corredor, J. A.</div>
+      <div class="pub-journal"><em>Estudios pedagógicos</em>, 43(1), 193–212.</div>
+      <div class="pub-links">
+        <a href="https://dx.doi.org/10.4067/S0718-07052017000100012" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+```
 
 ---
 
 ## Book Chapters
 
-**Campos, D. G.**, Sandsør, A., & Scherer, R. (*in press*). Do Income Fluctuations Matter in Egalitarian Societies? Family Income Dynamics and Academic Outcomes in Norway. In Hansen, K., Klapp, A., & Rolfe, V. (Eds.), *Studying Educational Inequality from a Longitudinal Perspective: Data, Methods, Findings and Implications*.
+```{=html}
+<div class="pub-list">
 
-Elmers, H., Nyman, L., **Campos, D. G.**, Glassow, L., & Edit, T. (*in press*). Educational Inequalities Across Five European Education Systems: A Macro-Meso-Micro Perspective. In Hansen, K., Klapp, A., & Rolfe, V. (Eds.), *Studying Educational Inequality from a Longitudinal Perspective: Data, Methods, Findings and Implications*.
+  <div class="pub-entry">
+    <div class="pub-year">in press</div>
+    <div class="pub-content">
+      <div class="pub-title">Do Income Fluctuations Matter in Egalitarian Societies? Family Income Dynamics and Academic Outcomes in Norway</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Sandsør, A., &amp; Scherer, R.</div>
+      <div class="pub-journal">In Hansen, K., Klapp, A., &amp; Rolfe, V. (Eds.), <em>Studying Educational Inequality from a Longitudinal Perspective: Data, Methods, Findings and Implications</em>.</div>
+    </div>
+  </div>
 
-Lintuvuori, M., Marjanen, J., **Campos, D. G.**, Victoria, R., Fischer, M., Söldner, L., Molnár, G., & Pásztor, A. (*in press*). Longitudinal datasets in this volume. In Hansen, K., Klapp, A., & Rolfe, V. (Eds.), *Studying Educational Inequality from a Longitudinal Perspective: Data, Methods, Findings and Implications*.
+  <div class="pub-entry">
+    <div class="pub-year">in press</div>
+    <div class="pub-content">
+      <div class="pub-title">Educational Inequalities Across Five European Education Systems: A Macro-Meso-Micro Perspective</div>
+      <div class="pub-authors">Elmers, H., Nyman, L., <strong>Campos, D. G.</strong>, Glassow, L., &amp; Edit, T.</div>
+      <div class="pub-journal">In Hansen, K., Klapp, A., &amp; Rolfe, V. (Eds.), <em>Studying Educational Inequality from a Longitudinal Perspective: Data, Methods, Findings and Implications</em>.</div>
+    </div>
+  </div>
 
-Wirts, C., Reber, K., & **Gonzalez-Campos, D.** (2020). SpraBi: Fragebogen und App zur Dokumentation sprachlicher Bildungsaktivitäten in der Kita. In K. Mackowiak, C. Beckerle, S. Gentrup, & C. Titz (Eds.), *Forschungsinstrumente im Kontext institutioneller (schrift-)sprachlicher Bildung* (pp. 55–78). Bad Heilbrunn: Verlag Julius Klinkhardt. <https://doi.org/10.35468/5801_04>
+  <div class="pub-entry">
+    <div class="pub-year">in press</div>
+    <div class="pub-content">
+      <div class="pub-title">Longitudinal datasets in this volume</div>
+      <div class="pub-authors">Lintuvuori, M., Marjanen, J., <strong>Campos, D. G.</strong>, Victoria, R., Fischer, M., Söldner, L., Molnár, G., &amp; Pásztor, A.</div>
+      <div class="pub-journal">In Hansen, K., Klapp, A., &amp; Rolfe, V. (Eds.), <em>Studying Educational Inequality from a Longitudinal Perspective: Data, Methods, Findings and Implications</em>.</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2020</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://doi.org/10.35468/5801_04" target="_blank">SpraBi: Fragebogen und App zur Dokumentation sprachlicher Bildungsaktivitäten in der Kita</a></div>
+      <div class="pub-authors">Wirts, C., Reber, K., &amp; <strong>Gonzalez-Campos, D.</strong></div>
+      <div class="pub-journal">In K. Mackowiak, C. Beckerle, S. Gentrup, &amp; C. Titz (Eds.), <em>Forschungsinstrumente im Kontext institutioneller (schrift-)sprachlicher Bildung</em> (pp. 55–78). Bad Heilbrunn: Verlag Julius Klinkhardt.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.35468/5801_04" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+```
 
 ---
 
 ## Doctoral Thesis
 
-**Campos, D. G.** (2024). *Approaches to Integrating Large Data into Systematic Reviews and Meta-Analysis in Education*. [Doctoral thesis, The University of Oslo]. DUO Research Archive.
+```{=html}
+<div class="pub-list">
+
+  <div class="pub-entry">
+    <div class="pub-year">2024</div>
+    <div class="pub-content">
+      <div class="pub-title"><em>Approaches to Integrating Large Data into Systematic Reviews and Meta-Analysis in Education</em></div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong></div>
+      <div class="pub-journal">Doctoral thesis, The University of Oslo. DUO Research Archive.</div>
+    </div>
+  </div>
+
+</div>
+```

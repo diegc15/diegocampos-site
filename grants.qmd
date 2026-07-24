@@ -4,33 +4,92 @@ title: "Awards & Grants"
 
 ## Awards
 
-**H.M. Kongens Gullmedalje — The King's Gold Medal** (2025)
-Awarded for the PhD thesis *Approaches to Integrating Large Data into Systematic Reviews and Meta-Analyses in Education*.
+```{=html}
+<div class="pub-list">
 
-**GEBF Junior Publication Prize** (2025)
-Awarded by the Society for Empirical Educational Research (Gesellschaft für Empirische Bildungsforschung) for outstanding contributions to educational research.
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title">H.M. Kongens Gullmedalje — The King's Gold Medal</div>
+      <div class="pub-journal">Awarded for the PhD thesis <em>Approaches to Integrating Large Data into Systematic Reviews and Meta-Analyses in Education</em>.</div>
+    </div>
+  </div>
 
-**Most Engaged Master's Student Cohort 2017–2019**
-Awarded by Ludwig-Maximilians-Universität München.
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title">GEBF Junior Publication Prize</div>
+      <div class="pub-journal">Awarded by the Society for Empirical Educational Research (Gesellschaft für Empirische Bildungsforschung) for outstanding contributions to educational research.</div>
+    </div>
+  </div>
+
+</div>
+```
 
 ---
 
 ## Research Grants & Funding
 
-**Grant Writer and Principal Investigator** — The Role of Physical Activity in Grades 1–4: A Systematic Knowledge Synthesis on Children's Attention, Self-Regulation and Executive Functions. (€134,381.51)
+```{=html}
+<div class="pub-list">
 
-**Work Package Leader** — Developmental Language Disorder: Academic and Social Outcomes Integrating Register, Longitudinal, and Intervention Research Evidence. *(Submitted to the Research Council of Norway)*
+  <div class="pub-entry">
+    <div class="pub-year">2026–present</div>
+    <div class="pub-content">
+      <div class="pub-title">Grant Writer and Principal Investigator — The Role of Physical Activity in Grades 1–4: A Systematic Knowledge Synthesis on Children's Attention, Self-Regulation and Executive Functions</div>
+      <div class="pub-journal">(€134,381.51)</div>
+    </div>
+  </div>
+  
+  <div class="pub-entry">
+    <div class="pub-year">2024–2028</div>
+    <div class="pub-content">
+      <div class="pub-title">Work Package Coordinator — MapIE: Mapping of Longitudinal Data of Inequalities in Education</div>
+      <div class="pub-journal">European Commission, Horizon Europe. Grant No. 101132474. (€2,999,644.75)</div>
+    </div>
+  </div>
 
-**Work Package Coordinator** — Mapping of Longitudinal Data of Inequalities in Education (MapIE). European Commission, Horizon Europe 2024–2028. Grant No. 101132474. (€2,999,644.75)
+  <div class="pub-entry">
+    <div class="pub-year">2022–2023</div>
+    <div class="pub-content">
+      <div class="pub-title">Grant Writer and Principal Investigator — Artificial Intelligence Assisted Systematic Literature Reviews and Meta-Analyses</div>
+      <div class="pub-journal">LEAD Graduate School &amp; Research Network, University of Tübingen. (€9,615.36)</div>
+    </div>
+  </div>
 
-**Grant Recipient** — Visiting Researcher Stimulus Fund 2023. Faculty of Educational Sciences, University of Oslo. (€6,517.60)
+  <div class="pub-entry">
+    <div class="pub-year">2022</div>
+    <div class="pub-content">
+      <div class="pub-title">Grant Recipient — Visiting Researcher Stimulus Fund</div>
+      <div class="pub-journal">Faculty of Educational Sciences, University of Oslo. (€6,517.60)</div>
+    </div>
+  </div>
 
-**Grant Writer and Principal Investigator** — Artificial Intelligence Assisted Systematic Literature Reviews and Meta-Analyses 2022–2023. LEAD Graduate School & Research Network, University of Tübingen. (€9,615.36)
+</div>
+```
 
 ---
 
 ## Scholarships
 
-**Colfuturo Scholarship for High Achieving Students** (2017–2019). (€26,200.52)
+```{=html}
+<div class="pub-list">
 
-**National Program of Initiation in Research, Creation, and Innovation.** National University of Colombia, 2013–2015. (€1,200)
+  <div class="pub-entry">
+    <div class="pub-year">2017–2019</div>
+    <div class="pub-content">
+      <div class="pub-title">Colfuturo Scholarship for High Achieving Students</div>
+      <div class="pub-journal">(€26,200.52)</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2013-2015</div>
+    <div class="pub-content">
+      <div class="pub-title">National Program of Initiation in Research, Creation, and Innovation</div>
+      <div class="pub-journal">National University of Colombia. (€1,200)</div>
+    </div>
+  </div>
+
+</div>
+```

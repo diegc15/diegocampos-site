@@ -4,6 +4,11 @@ page-layout: article
 toc: false
 ---
 
+```{=html}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
+```
+
 ::: {.hero-center}
 
 ![](assets/images/profile.jpg){.profile-photo fig-alt="Diego G. Campos"}
@@ -22,14 +27,59 @@ Associate Professor
 [Knowledge Centre for Education (KSU)](https://www.uis.no/en/research/knowledge-centre-for-education) · University of Stavanger, Norway
 :::
 
-::: {.contact-links}
-[Email](mailto:diego.a.campos@uis.no){.btn .btn-sm}
-[GitHub](https://github.com/diegc15){.btn .btn-sm}
-[LinkedIn](https://www.linkedin.com/in/diego-g-campos-55844872/){.btn .btn-sm}
-[Bluesky](https://bsky.app/profile/diegc.bsky.social){.btn .btn-sm}
+```{=html}
+<div class="contact-links">
+  <a href="mailto:diego.a.campos@uis.no" class="icon-btn" title="Email"><i class="fas fa-envelope"></i></a>
+  <a href="https://scholar.google.com/citations?user=TUdYbvwAAAAJ&hl=en" class="icon-btn" title="Google Scholar" target="_blank"><i class="ai ai-google-scholar"></i></a>
+  <a href="https://orcid.org/0000-0002-8820-5881" class="icon-btn" title="ORCID" target="_blank"><i class="ai ai-orcid"></i></a>
+  <a href="https://osf.io/f2nct/" class="icon-btn" title="OSF" target="_blank"><i class="ai ai-osf"></i></a>
+  <a href="https://github.com/diegc15" class="icon-btn" title="GitHub" target="_blank"><i class="fab fa-github"></i></a>
+  <a href="https://www.linkedin.com/in/diego-g-campos-55844872/" class="icon-btn" title="LinkedIn" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+  <a href="https://bsky.app/profile/diegc.bsky.social" class="icon-btn" title="Bluesky" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="15" height="15" fill="currentColor"><path d="M407.8 294.7c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3zM288 227.1C261.9 176.4 190.9 81.9 124.9 35.3C61.3-9.7 0 17 0 80.6c0 80.4 74.4 68.1 74.4 74.5C74.4 196.2 51.6 302.4 .7 379.4C0 380.3 0 381.2 0 382.1C0 435 28.8 448 55.4 448c41.7 0 59-22.6 70.4-37.9L220 271.3c0 0-16.9 97-42.8 158.3c-5.2 12.3-1.7 26.6 8.8 35.4c10.5 8.8 25.3 10.2 37.1 3.4l109.2-63.6C344.5 424 367.3 448 409 448c26.6 0 55.4-13 55.4-65.9c0-.9 0-1.8-.7-2.7c-50.9-77-73.7-183.2-73.7-224.5c0-6.4 74.4 5.9 74.4-74.5c0-63.5-61.3-90.3-124.9-44.9c-66 46.6-137 141.1-163.1 191.8c-3.5 6.8-6.8 13.7-9.7 20.8H288z"/></svg></a>
+</div>
+```
+
+:::
+
+---
+
+## About
+
+I develop and evaluate novel methodological approaches to research synthesis to improve the efficiency, transparency, and policy relevance of systematic reviews and meta-analyses. My work focuses on **meta-analysis** and **individual participant data meta-analysis (IPD-MA)**, and their application to the study of **educational inequalities**. I examine how individual, family, and school factors shape educational outcomes, with a particular interest in **digital competence** and other key competencies for learning and participation in modern societies. I also develop **AI-assisted tools** to make systematic evidence syntheses more efficient, transparent, and reproducible.
+
+---
+
+## Recent News
+
+::: {.news-section}
+
+::: {.news-item}
+**2026** — New paper in *Advances in Methods and Practices in Psychological Science*: [Fast-Track Your Abstract Screening: Mastering ASReview](https://doi.org/10.1177/25152459261442150)
+:::
+
+::: {.news-item}
+**2026** — New paper in *Learning and Individual Differences*: [AI tools for systematic literature reviews and meta-analyses in educational psychology](https://doi.org/10.1016/j.lindif.2025.102849)
+:::
+
+::: {.news-item}
+**2026** — New paper in *Educational Research Review*: [Unraveling Gender Disparities in Teachers’ Technological Pedagogical and Content Knowledge: A Large-Scale Meta-Analytic Review](https://doi.org/10.1016/j.edurev.2026.100765)
+:::
+
+::: {.news-item}
+**2025** — Awarded the **H.M. Kongens Gullmedalje** (The King's Gold Medal) for the PhD thesis *Approaches to Integrating Large Data into Systematic Reviews and Meta-Analyses in Education*.
+:::
+
+::: {.news-item}
+**2025** — Awarded the **GEBF Junior Publication Prize** by the Society for Empirical Educational Research.
+:::
+
+::: {.news-item}
+**2024–2028** — Work Package Coordinator for **MapIE** (Mapping of Longitudinal Data of Inequalities in Education), EU Horizon Europe grant (€2,999,644.75).
 :::
 
 :::
+
+[See all publications →](publications.qmd){.btn .btn-sm .mt-3}
 
 ---
 
@@ -53,43 +103,3 @@ Associate Professor
   </div>
 </div>
 ```
-
----
-
-## About
-
-I develop and evaluate novel methodological approaches to research synthesis to improve the efficiency, transparency, and policy relevance of systematic reviews and meta-analyses. My work focuses on **meta-analysis** and **individual participant data meta-analysis (IPD-MA)**, and their application to the study of **educational inequalities**. I examine how individual, family, and school factors shape educational outcomes, with a particular interest in **digital competence** and other key competencies for learning and participation in modern societies. I also develop **AI-assisted tools** to make systematic evidence syntheses more efficient, transparent, and reproducible.
-
----
-
-## Recent News
-
-::: {.news-section}
-
-::: {.news-item}
-**2026** — Three book chapters *in press* in *Studying Educational Inequality from a Longitudinal Perspective* (eds. Hansen, Klapp & Rolfe), including a chapter on family income dynamics and academic outcomes in Norway.
-:::
-
-::: {.news-item}
-**2026** — New paper in *Advances in Methods and Practices in Psychological Science*: [Fast-Track Your Abstract Screening: Mastering ASReview](https://doi.org/10.1177/25152459261442150)
-:::
-
-::: {.news-item}
-**2026** — New paper in *Learning and Individual Differences*: [AI tools for systematic literature reviews and meta-analyses in educational psychology](https://doi.org/10.1016/j.lindif.2025.102849)
-:::
-
-::: {.news-item}
-**2025** — Awarded the **H.M. Kongens Gullmedalje** (The King's Gold Medal) for the PhD thesis *Approaches to Integrating Large Data into Systematic Reviews and Meta-Analyses in Education*.
-:::
-
-::: {.news-item}
-**2025** — Awarded the **GEBF Junior Publication Prize** by the Society for Empirical Educational Research.
-:::
-
-::: {.news-item}
-**2024–2028** — Work Package Coordinator for **MapIE** (Mapping of Longitudinal Data of Inequalities in Education), EU Horizon Europe grant (€2,999,644.75).
-:::
-
-:::
-
-[See all publications →](publications.qmd){.btn .btn-sm .mt-3}

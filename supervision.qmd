@@ -4,20 +4,74 @@ title: "Supervision"
 
 ## Current
 
-**Yoon, S.** (present). A Systematic Review of Learning Analytics: Intervention Effectiveness and Application Characteristics in K-12 Mathematics and Language Arts Education. *Postdoctoral project*. University of Stavanger. [Profile](https://www.uis.no/nb/profile/sang-won-yoon)
+```{=html}
+<div class="pub-list">
 
-**Løkken, J.** (present). Impact of Data Dependencies on Machine-Learning-Informed Moderator Selection in Meta-Analysis. *Doctoral project*. University of Oslo. [Project page](https://www.uv.uio.no/cemo/forskning/prosjekter/impact-of-data-dependencies-on-machine-learning-in/index.html)
+  <div class="pub-entry">
+    <div class="pub-year">present</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://www.uis.no/nb/profile/sang-won-yoon" target="_blank">Yoon, S.</a></div>
+      <div class="pub-journal">A Systematic Review of Learning Analytics: Intervention Effectiveness and Application Characteristics in K-12 Mathematics and Language Arts Education. <em>Postdoctoral project</em>, University of Stavanger.</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">present</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://www.uv.uio.no/cemo/forskning/prosjekter/impact-of-data-dependencies-on-machine-learning-in/index.html" target="_blank">Løkken, J.</a></div>
+      <div class="pub-journal">Impact of Data Dependencies on Machine-Learning-Informed Moderator Selection in Meta-Analysis. <em>Doctoral project</em>, University of Oslo.</div>
+    </div>
+  </div>
+
+</div>
+```
 
 ---
 
 ## Completed
 
-**Umrit, S.** (2026). An Intersectional Analysis of Cognitive Skills Proficiency Among Norwegian Higher Education Graduates Using PIAAC Data 2023. *Master Thesis*.
+```{=html}
+<div class="pub-list">
 
-**Mannsaaker, T.** (2025). Unravelling Norway's Mathematics Decline: A Cross-Country Decomposition of Socioemotional Drivers and Classroom Dynamics in PISA 2022. *Master Thesis*.
+  <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <div class="pub-title">Umrit, S.</div>
+      <div class="pub-journal">An Intersectional Analysis of Cognitive Skills Proficiency Among Norwegian Higher Education Graduates Using PIAAC Data 2023. <em>Master Thesis</em>.</div>
+    </div>
+  </div>
 
-**Pasha, M.** (2024). Cross-National Variations in Self-Efficacy and Attitudes Towards ICT Use in Teaching: An Integrative Data Analysis Across ICILS Countries. *Master Thesis*.
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title">Mannsaaker, T.</div>
+      <div class="pub-journal">Unravelling Norway's Mathematics Decline: A Cross-Country Decomposition of Socioemotional Drivers and Classroom Dynamics in PISA 2022. <em>Master Thesis</em>.</div>
+    </div>
+  </div>
 
-**Yousufzai, M.** (2022). The Relation between Mathematics Anxiety and Achievement: A Study of the Moderating Role of Immigration Background on PISA 2012 Norwegian Students. *Master Thesis*.
+  <div class="pub-entry">
+    <div class="pub-year">2024</div>
+    <div class="pub-content">
+      <div class="pub-title">Pasha, M.</div>
+      <div class="pub-journal">Cross-National Variations in Self-Efficacy and Attitudes Towards ICT Use in Teaching: An Integrative Data Analysis Across ICILS Countries. <em>Master Thesis</em>.</div>
+    </div>
+  </div>
 
-**Kharlamov, A.** (2021). Do Growth and Fixed Mindsets Go Together? Meta-analysis. *Master Thesis*.
+  <div class="pub-entry">
+    <div class="pub-year">2022</div>
+    <div class="pub-content">
+      <div class="pub-title">Yousufzai, M.</div>
+      <div class="pub-journal">The Relation between Mathematics Anxiety and Achievement: A Study of the Moderating Role of Immigration Background on PISA 2012 Norwegian Students. <em>Master Thesis</em>.</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2021</div>
+    <div class="pub-content">
+      <div class="pub-title">Kharlamov, A.</div>
+      <div class="pub-journal">Do Growth and Fixed Mindsets Go Together? Meta-analysis. <em>Master Thesis</em>.</div>
+    </div>
+  </div>
+
+</div>
+```

@@ -66,9 +66,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero-name {
   font-family: 'Source Sans 3', 'Source Sans Pro', sans-serif;
-  font-size: 2.4rem;
+  font-size: 3.2rem;
   font-weight: 200;
-  letter-spacing: 0.45em;
+  letter-spacing: 0.18em;
   text-transform: uppercase;
   color: #1a1a1a;
   margin: 1.25rem 0 0;
@@ -79,22 +79,24 @@ h1, h2, h3, h4, h5, h6 {
   width: 2.5rem;
   border: none;
   border-top: 1px solid #ccc;
-  margin: 1rem auto;
+  margin: 0.5rem auto;
 }
 
 .hero-subtitle {
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   font-weight: 300;
   letter-spacing: 0.05em;
   color: #555;
-  margin-bottom: 0.25rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0.15rem;
 }
 
 .hero-institution {
-  font-size: 0.9rem;
+  font-size: 1.05rem;
   font-weight: 300;
   color: #888;
   letter-spacing: 0.02em;
+  margin-top: 0;
 }
 
 /* ---------- Profile photo ---------- */
@@ -117,33 +119,37 @@ h1, h2, h3, h4, h5, h6 {
   height: auto;
 }
 
-/* ---------- Contact buttons ---------- */
+/* ---------- Contact icon buttons ---------- */
 .contact-links {
-  margin-top: 1.2rem;
+  margin-top: 1.4rem;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.6rem;
   justify-content: center;
 }
 
-.contact-links a.btn {
-  font-family: 'Source Sans 3', 'Source Sans Pro', sans-serif;
-  font-size: 0.72rem;
-  font-weight: 400;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
   border: 1px solid #1a1a1a;
-  border-radius: 999px;
   color: #1a1a1a;
-  background: transparent;
-  padding: 0.3rem 1.1rem;
+  font-size: 1rem;
   text-decoration: none;
   transition: background 0.2s, color 0.2s;
 }
 
-.contact-links a.btn:hover {
+.icon-btn:hover {
   background: #1a1a1a;
   color: #ffffff;
+  text-decoration: none;
+}
+
+.icon-btn .ai {
+  font-size: 1.1rem;
 }
 
 /* ---------- Section pages ---------- */
@@ -238,6 +244,27 @@ hr {
   text-transform: uppercase;
 }
 
+.footer-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  font-size: 0.95rem;
+  margin-left: 0.75rem;
+  text-decoration: none;
+  transition: color 0.2s;
+  vertical-align: middle;
+}
+
+.footer-icon:hover {
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.footer-icon .ai {
+  font-size: 1.05rem;
+}
+
 /* ---------- City photo grid ---------- */
 .city-grid {
   display: grid;
@@ -268,6 +295,106 @@ hr {
   display: flex;
   flex-direction: column;
   gap: 0.7rem;
+}
+
+/* ---------- Publication list ---------- */
+.pub-list {
+  margin: 0;
+  padding: 0;
+}
+
+.pub-entry {
+  display: grid;
+  grid-template-columns: 4.5rem 1fr;
+  gap: 0.5rem 1.5rem;
+  margin-bottom: 1.8rem;
+  padding-bottom: 1.8rem;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.pub-entry:last-child {
+  border-bottom: none;
+}
+
+.pub-year {
+  font-size: 0.72rem;
+  font-weight: 400;
+  color: #aaa;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding-top: 0.2rem;
+  text-align: right;
+}
+
+.pub-title {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #1a1a1a;
+  margin-bottom: 0.2rem;
+  line-height: 1.45;
+}
+
+.pub-title a {
+  color: #1a1a1a;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: #ccc;
+}
+
+.pub-title a:hover {
+  color: #444;
+  text-decoration-color: #444;
+}
+
+.pub-authors {
+  font-size: 0.88rem;
+  color: #555;
+  font-weight: 300;
+  margin-bottom: 0.15rem;
+  line-height: 1.4;
+}
+
+.pub-journal {
+  font-size: 0.88rem;
+  color: #888;
+  font-weight: 300;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.pub-links {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+
+.pub-btn {
+  font-family: 'Source Sans 3', 'Source Sans Pro', sans-serif;
+  font-size: 0.68rem;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  color: #666;
+  background: transparent;
+  padding: 0.18rem 0.65rem;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.pub-btn:hover {
+  border-color: #1a1a1a;
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+.pub-btn i {
+  font-size: 0.65rem;
 }
 
 /* ---------- Responsive ---------- */

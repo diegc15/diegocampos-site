@@ -2,31 +2,28 @@
 title: "Research"
 ---
 
-My research sits at the intersection of **methodology** and **educational science**. I develop and apply advanced quantitative methods — primarily research synthesis techniques — to study educational inequalities and the factors that shape learning outcomes.
+My research sits at the intersection of **methodology** and **educational science**. I develop and apply advanced quantitative methods to study educational inequalities and the factors that shape learning outcomes.
 
 ---
 
 ## Current Projects
 
+
+### Statistical Methods for Research Synthesis
+
+I develop statistical methods for research synthesis, with a focus on complex educational data and evidence integration. My research includes individual participant data meta-analysis, methods for synthesizing data from large-scale assessments, approaches for handling effect-size dependencies, and the application of machine learning to evidence synthesis. 
+
+### Mapping of Longitudinal Data of Inequalities in Education (MapIE)
+
+As part of the EU-funded MapIE project (<https://mapie-project.eu/home>), we examine the mechanisms through which individual pupil-level characteristics contribute to educational inequalities across Europe. Our research focuses on understanding how these factors influence educational outcomes and on assessing the capacity of policies and practices to compensate for such disparities. By analyzing educational systems at the school, regional, and national levels, we aim to generate evidence that can inform more equitable and effective educational policies.
+
 ### AIRES — AI-Assisted Research Synthesis in Educational Sciences
 
-I am developing AIRES, a suite of AI-assisted tools designed to make systematic evidence syntheses more efficient, transparent, and reproducible. The project addresses key bottlenecks in evidence synthesis workflows — from title/abstract screening to data extraction — using machine learning and large language models calibrated to the standards of rigorous systematic review methodology.
+I am developing AIRES (AI-Assisted Research Synthesis), a research program focused on integrating artificial intelligence into evidence synthesis workflows in the educational sciences. The project aims to make systematic reviews and other forms of research synthesis more efficient, transparent, and reproducible by combining rigorous review methodology with advances in machine learning and large language models.
 
-### IPD Meta-Analysis Methodology
+### Educational Inequalities 
 
-I develop and evaluate individual participant data meta-analysis (IPD-MA) approaches, with a focus on integrating data from complex sampling surveys such as international large-scale assessments (PISA, ICILS, TIMSS). This work bridges methodological gaps between survey statistics and research synthesis, producing more nuanced estimates of educational effects.
-
-### Educational Inequalities in Europe
-
-In collaboration with international partners, I study educational inequalities across European school systems. Current work includes a large-scale scoping review of longitudinal studies in K-12 education examining how individual, family, and school factors shape learning trajectories over time.
-
-### AI Tools for Evidence Synthesis
-
-I investigate how AI tools — including active learning systems like ASReview — can be integrated responsibly into systematic review pipelines. This includes benchmarking screening algorithms, developing and evaluating stopping rules, and assessing the reliability of AI-assisted decisions.
-
-### Digital Competence and Gender Gaps
-
-I study gender disparities in students' digital knowledge, attitudes, and skills using integrative data analysis across international datasets. This work examines the structural and contextual factors that sustain or reduce the digital gender gap in education.
+I examine the factors that shape students’ educational outcomes and the development of competencies that are essential for learning and participation in modern societies. Using large-scale national and international assessments, as well as linked administrative register data, I investigate how individual characteristics, family background, school environments, and broader contextual conditions contribute to educational inequalities and differences in student achievement.
 
 ---
 

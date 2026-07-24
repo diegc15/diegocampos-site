@@ -2,46 +2,223 @@
 title: "Presentations"
 ---
 
+```{=html}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+```
+
 ## Invited Talks
 
-**Campos, D. G.** (2025). Research Synthesis After the Reproducibility and Open Science Reforms: How do Systematic Review and Meta-Analysis Practices in Education Need to Adapt? *University of Amsterdam*.
+```{=html}
+<div class="pub-list">
 
-**Campos, D. G.** (2025). AIRES: Accelerating Research Synthesis in Educational Sciences. *Norwegian Institute of Public Health*.
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title">Research Synthesis After the Reproducibility and Open Science Reforms: How do Systematic Review and Meta-Analysis Practices in Education Need to Adapt?</div>
+      <div class="pub-journal"><em>University of Amsterdam</em>, Netherlands.</div>
+      <div class="pub-links">
+        <a href="assets/slides/amsterdam_2025.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.** (2022). Synthesizing Individual Participant Data Obtained From Complex Sampling Surveys: A Two-Stage IPD Meta-Analysis Approach. *AERA Special Interest Group in Systematic Reviews and Meta-Analysis, Online Seminar*. [Recording](https://www.youtube.com/watch?v=rVggoVOFJO8&t=4s)
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title">AIRES: Accelerating Research Synthesis in Educational Sciences</div>
+      <div class="pub-journal"><em>Norwegian Institute of Public Health</em>, Norway.</div>
+      <div class="pub-links">
+        <a href="assets/slides/FHI_2025.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2022</div>
+    <div class="pub-content">
+      <div class="pub-title">Synthesizing Individual Participant Data Obtained From Complex Sampling Surveys: A Two-Stage IPD Meta-Analysis Approach</div>
+      <div class="pub-journal"><em>AERA Special Interest Group in Systematic Reviews and Meta-Analysis</em>, Online Seminar.</div>
+      <div class="pub-links">
+        <a href="assets/slides/AERA_2022.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+        <a href="https://www.youtube.com/watch?v=rVggoVOFJO8&t=4s" class="pub-btn" target="_blank"><i class="fas fa-video"></i> Recording</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+```
 
 ---
 
 ## Conference Presentations
 
-**Campos, D. G.**, Sandsør, A., & Scherer, R. (2026). Family Income Dynamics and Academic Achievement in Norway: Evidence from Population-Level Longitudinal Data. *22nd Conference in Educational Assessment*.
+```{=html}
+<div class="pub-list">
 
-**Campos, D. G.**, Koskinen, A., Munkácsy, B., Rolfe, V., Patsis, P., Tóth, E., Olsen, R. V., Scherer, R., Söldner, L., Danek, A. H., Greiff, S., & Vainikainen, M.-P. (2026). Educational inequalities in Europe: A scoping review of longitudinal studies in K-12 education. *22nd Conference in Educational Assessment*.
+  <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <div class="pub-title">Family Income Dynamics and Academic Achievement in Norway: Evidence from Population-Level Longitudinal Data</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Sandsør, A., &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>22nd Conference in Educational Assessment</em>.</div>
+      <div class="pub-links">
+        <a href="assets/slides/CEA_2026.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.**, Cheung, M.-W., & Scherer, R. (2023). Synthesizing Contextual Effects: A Comparison of the Two-Stage Meta-Analytic and One-Stage Multilevel Modeling Approaches in the Presence of Individual Participant Data. *Frontier Research in Educational Measurement*.
+  <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+      <div class="pub-title">Educational inequalities in Europe: A scoping review of longitudinal studies in K-12 education</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Koskinen, A., Munkácsy, B., Rolfe, V., Patsis, P., Tóth, E., Olsen, R. V., Scherer, R., Söldner, L., Danek, A. H., Greiff, S., &amp; Vainikainen, M.-P.</div>
+      <div class="pub-journal"><em>22nd Conference in Educational Assessment</em>.</div>
+      <div class="pub-links">
+        <a href="assets/slides/CEA_2026_Scoping.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.**, Fütterer, T., Gfrörer, T., Lavelle-Hill, R., Murayama, K., König, L., Hecht, M., Zitzmann, S., & Scherer, R. (2023). Assessing the Performance of ASReview for Abstract Screening in Systematic Reviews in Education: A Benchmarking and Evaluation Project. *Research Synthesis and Big Data Conference*.
+  <div class="pub-entry">
+    <div class="pub-year">2023</div>
+    <div class="pub-content">
+      <div class="pub-title">Synthesizing Contextual Effects: A Comparison of the Two-Stage Meta-Analytic and One-Stage Multilevel Modeling Approaches in the Presence of Individual Participant Data</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Cheung, M.-W., &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>Frontier Research in Educational Measurement</em>.</div>
+      <div class="pub-links">
+        <a href="assets/slides/FREMO_2023.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.**, Cheung, M.-W., & Scherer, R. (2022). Synthesizing research on complex sampling surveys: Two-stage meta-analysis with individual participant data. *International Meeting of the Psychometric Society (IMPS)*.
+  <div class="pub-entry">
+    <div class="pub-year">2023</div>
+    <div class="pub-content">
+      <div class="pub-title">Assessing the Performance of ASReview for Abstract Screening in Systematic Reviews in Education: A Benchmarking and Evaluation Project</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Fütterer, T., Gfrörer, T., Lavelle-Hill, R., Murayama, K., König, L., Hecht, M., Zitzmann, S., &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>Research Synthesis and Big Data Conference</em>.</div>
+      <div class="pub-links">
+        <a href="assets/slides/RSB_2023.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.** & Scherer, R. (2022). Exploring the Role of Attitudes Toward ICT in the Gender Digital Divide: An Analysis with International Large-Scale Assessment Data. *Nordic Educational Research Association (NERA)*.
+  <div class="pub-entry">
+    <div class="pub-year">2022</div>
+    <div class="pub-content">
+      <div class="pub-title">Synthesizing research on complex sampling surveys: Two-stage meta-analysis with individual participant data</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Cheung, M.-W., &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>International Meeting of the Psychometric Society (IMPS)</em>.</div>
+      <div class="pub-links">
+        <a href="assets/slides/IMPS_2022.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.**, Kharlamov, A., & Scherer, R. (2022). Assessing Mindsets: A Meta-Analysis of the Reliability and Factor Structure of Dweck's Mindset Scale. *AERA Annual Meeting*.
+  <div class="pub-entry">
+    <div class="pub-year">2022</div>
+    <div class="pub-content">
+      <div class="pub-title">Exploring the Role of Attitudes Toward ICT in the Gender Digital Divide: An Analysis with International Large-Scale Assessment Data</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong> &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>Nordic Educational Research Association (NERA)</em>.</div>
+      <div class="pub-links">
+        <a href="assets/slides/NERA_2022.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.**, Cheung, M.-W., & Scherer, R. (2021). Meta-Analyzing International Large-Scale Assessment Data: An Application of the Split, Analyze, and Meta-Analyze (SAM) Approach. *Research Synthesis and Big Data Conference*.
+  <div class="pub-entry">
+    <div class="pub-year">2021</div>
+    <div class="pub-content">
+      <div class="pub-title">Meta-Analyzing International Large-Scale Assessment Data: An Application of the Split, Analyze, and Meta-Analyze (SAM) Approach</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Cheung, M.-W., &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>Research Synthesis and Big Data Conference</em>.</div>
+      <div class="pub-links">
+        <a href="assets/slides/RSB_2021.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.**, Cheung, M.-W., & Scherer, R. (2021). When Meta-Analysis Meets International Large-Scale Assessment Data: Applications of the Two-Stage IPD Meta-Analysis Approach. *9th IEA International Research Conference*.
+  <div class="pub-entry">
+    <div class="pub-year">2021</div>
+    <div class="pub-content">
+      <div class="pub-title">When Meta-Analysis Meets International Large-Scale Assessment Data: Applications of the Two-Stage IPD Meta-Analysis Approach</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong>, Cheung, M.-W., &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>9th IEA International Research Conference</em>.</div>
+      <div class="pub-links">
+        
+      </div>
+    </div>
+  </div>
 
-**Gonzalez-Campos, D. A.** & Corredor, J. (2016). The Role of the Body in Sensory Integration Between A-Modal and Smell Stimuli. *APA Annual Convention*.
+  <div class="pub-entry">
+    <div class="pub-year">2016</div>
+    <div class="pub-content">
+      <div class="pub-title">The Role of the Body in Sensory Integration Between A-Modal and Smell Stimuli</div>
+      <div class="pub-authors"><strong>Gonzalez-Campos, D. A.</strong> &amp; Corredor, J.</div>
+      <div class="pub-journal"><em>APA Annual Convention</em>.</div>
+      <div class="pub-links">
+        
+      </div>
+    </div>
+  </div>
 
-**Gonzalez-Campos, D. A.**, Corredor, J., Cristancho, J., Hurtado, R., & Useche, J. (2015). Towards the Development of an Emotion Model Based on Colour Properties. *XXXV Inter-American Conference of Psychology*.
+  <div class="pub-entry">
+    <div class="pub-year">2015</div>
+    <div class="pub-content">
+      <div class="pub-title">Towards the Development of an Emotion Model Based on Colour Properties</div>
+      <div class="pub-authors"><strong>Gonzalez-Campos, D. A.</strong>, Corredor, J., Cristancho, J., Hurtado, R., &amp; Useche, J.</div>
+      <div class="pub-journal"><em>XXXV Inter-American Conference of Psychology</em>.</div>
+      <div class="pub-links">
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+```
 
 ---
 
 ## Outreach & Community Events
 
-Teig, N., **Campos, D. G.**, Ye, W., & Van De, V. (2024). Systematic Reviews. *ESERA SIG 6, Methods Journal Club*.
+```{=html}
+<div class="pub-list">
 
-**Campos, D. G.** (2021). Introduction to Meta-Analyses of Structural Equation Models with {metaSEM}. *Use R Oslo*. [Recording](https://www.youtube.com/watch?v=xyfIt2iNTu0&t=11s)
+  <div class="pub-entry">
+    <div class="pub-year">2024</div>
+    <div class="pub-content">
+      <div class="pub-title">Systematic Reviews</div>
+      <div class="pub-authors">Teig, N., <strong>Campos, D. G.</strong>, Ye, W., &amp; Van De, V.</div>
+      <div class="pub-journal"><em>ESERA SIG 6, Methods Journal Club</em>.</div>
+      <div class="pub-links">
+        <a href="assets/slides/SIG6_Systematic_Review.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
 
-**Campos, D. G.** (2021). A Quest for the Factors Associated with Collaborative Problem-Solving. *Get To Know CEMO*.
+  <div class="pub-entry">
+    <div class="pub-year">2021</div>
+    <div class="pub-content">
+      <div class="pub-title">Introduction to Meta-Analyses of Structural Equation Models with {metaSEM}</div>
+      <div class="pub-journal"><em>Use R Oslo</em>.</div>
+      <div class="pub-links">
+        <a href="assets/slides/MASEM_UseR.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+        <a href="https://www.youtube.com/watch?v=xyfIt2iNTu0&t=11s" class="pub-btn" target="_blank"><i class="fas fa-video"></i> Recording</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2021</div>
+    <div class="pub-content">
+      <div class="pub-title">A Quest for the Factors Associated with Collaborative Problem-Solving</div>
+      <div class="pub-journal"><em>Get To Know CEMO</em>.</div>
+      <div class="pub-links">
+        <a href="assets/slides/CEMO_2021.pdf" class="pub-btn"><i class="fas fa-file-pdf"></i> Slides</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+```

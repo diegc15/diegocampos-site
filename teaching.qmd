@@ -2,40 +2,139 @@
 title: "Teaching"
 ---
 
-## University Courses
-
-**MAE4112** — Multilevel Models
-*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
-[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4112/)
-
-**MAE4000** — Data Science
-*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
-[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4000/)
-
-**MAE4050** — Current Topics and Debates in Assessment and Evaluation
-*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
-[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4050/)
-
-**MAE4051** — Selected Topics in Educational Measurement
-*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
-[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4051/)
-
-**MAE4221** — Research Seminar I: Researcher's Skills
-*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
-[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4221/)
-
-**MAE4231** — Research Seminar II: Researcher's Skills and Professional Communication
-*Master in Assessment, Measurement and Evaluation, University of Oslo* (2020–2024)
-[Course page](https://www.uio.no/studier/emner/uv/cemo/MAE4231/)
-
----
 
 ## Workshops
 
-**Campos, D. G.** (2025). A Hands-On Workshop for Meta-Analyses in Social, Behavioral, or Educational Research. *University of Amsterdam*, Netherlands.
+```{=html}
+<div class="pub-list">
 
-Scherer, R. & **Campos, D. G.** (2025). Meta-Analysis in Education: From Theory to Practice with R. *Technical University Dortmund*, Germany.
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title">A Hands-On Introduction to Analyses of Educational Equity Using International Large-Scale Assessment (ILSA) Data</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong></div>
+      <div class="pub-journal"><em>Technical University of Munich</em>, Germany. </div>
+      <div class="pub-links">
+        <a href="https://osf.io/mnscf/overview" class="pub-btn"><i class="fas fa-file-pdf"></i> Materials</a>
+        </div>
+    </div>
+  </div>
 
-Fütterer, T., Gförer, T., & **Campos, D. G.** (2024). AI Tools for Systematic Reviews and Meta-Analyses. *Federal Institute for Vocational Education and Training*, Germany. *(Online)*
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title">Doing Meta-Analysis: A Meta-Analysis Workshop for the Social Sciences</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong></div>
+      <div class="pub-journal"><em>University of Zurich</em>, Switzerland. (Online)</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.17605/OSF.IO/CZKHP" class="pub-btn"><i class="fas fa-file-pdf"></i> Materials</a>
+        </div>
+    </div>
+  </div>
 
-Scherer, R. & **Campos, D. G.** (2024). A Hands-On Workshop for Meta-Analyses in Educational Research. *Quantitative Research Methods Conference (QRM 2024), University of Gothenburg*, Sweden.
+
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title">A Hands-On Workshop for Meta-Analyses in Social, Behavioral, or Educational Research</div>
+      <div class="pub-authors"><strong>Campos, D. G.</strong></div>
+      <div class="pub-journal"><em>University of Amsterdam</em>, Netherlands.</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.17605/OSF.IO/CH6RJ" class="pub-btn"><i class="fas fa-file-pdf"></i> Materials</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2025</div>
+    <div class="pub-content">
+      <div class="pub-title">Meta-Analysis in Education: From Theory to Practice with R</div>
+      <div class="pub-authors">Scherer, R. &amp; <strong>Campos, D. G.</strong></div>
+      <div class="pub-journal"><em>Technical University Dortmund</em>, Germany.</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2024</div>
+    <div class="pub-content">
+      <div class="pub-title">AI Tools for Systematic Reviews and Meta-Analyses</div>
+      <div class="pub-authors">Fütterer, T., Gförer, T., &amp; <strong>Campos, D. G.</strong></div>
+      <div class="pub-journal"><em>Federal Institute for Vocational Education and Training</em>, Germany. <em>(Online)</em></div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2024</div>
+    <div class="pub-content">
+      <div class="pub-title">A Hands-On Workshop for Meta-Analyses in Educational Research</div>
+      <div class="pub-authors">Scherer, R. &amp; <strong>Campos, D. G.</strong></div>
+      <div class="pub-journal"><em>Quantitative Research Methods Conference (QRM 2024)</em>, University of Gothenburg, Sweden.</div>
+    </div>
+    </div>
+
+
+
+</div>
+```
+
+
+## University Courses
+
+```{=html}
+<div class="pub-list">
+
+
+  <div class="pub-entry">
+    <div class="pub-year">2022–2023</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://www.uio.no/studier/emner/uv/cemo/MAE4112/" target="_blank">MAE4112 — Multilevel Models</a></div>
+      <div class="pub-journal"><em>Master in Assessment, Measurement and Evaluation</em>, University of Oslo.</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2022–2023</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://www.uio.no/studier/emner/uv/cemo/MAE4000/" target="_blank">MAE4000 — Data Science</a></div>
+      <div class="pub-journal"><em>Master in Assessment, Measurement and Evaluation</em>, University of Oslo.</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2021–2023</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://www.uio.no/studier/emner/uv/cemo/MAE4050/" target="_blank">MAE4050 — Current Topics and Debates in Assessment and Evaluation</a></div>
+      <div class="pub-journal"><em>Master in Assessment, Measurement and Evaluation</em>, University of Oslo.</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2020–2022</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://www.uio.no/studier/emner/uv/cemo/MAE4051/" target="_blank">MAE4051 — Selected Topics in Educational Measurement</a></div>
+      <div class="pub-journal"><em>Master in Assessment, Measurement and Evaluation</em>, University of Oslo.</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2021–2022</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://www.uio.no/studier/emner/uv/cemo/MAE4221/" target="_blank">MAE4221 — Research Seminar I: Researcher's Skills</a></div>
+      <div class="pub-journal"><em>Master in Assessment, Measurement and Evaluation</em>, University of Oslo.</div>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-year">2021</div>
+    <div class="pub-content">
+      <div class="pub-title"><a href="https://www.uio.no/studier/emner/uv/cemo/MAE4231/" target="_blank">MAE4231 — Research Seminar II: Researcher's Skills and Professional Communication</a></div>
+      <div class="pub-journal"><em>Master in Assessment, Measurement and Evaluation</em>, University of Oslo.</div>
+    </div>
+  </div>
+
+  </div>
+
+</div>
+```
+
+---
