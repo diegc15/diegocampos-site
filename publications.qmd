@@ -49,7 +49,7 @@ title: "Publications"
         <a href="https://doi.org/10.1016/j.stueduc.2026.101683" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
     </div>
   </div>
-
+  </div>
 
   <div class="pub-entry">
     <div class="pub-year">2026</div>
