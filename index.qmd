@@ -54,6 +54,11 @@ I develop and evaluate novel methodological approaches to research synthesis to 
 ::: {.news-section}
 
 ::: {.news-item}
+**2026** — New paper in *Studies in Educational Evaluation*: [Educational Inequality Across Countries: An Integrative Data Analysis of TIMSS 2023](https://doi.org/10.1016/j.stueduc.2026.101683)
+:::
+
+
+::: {.news-item}
 **2026** — New paper in *Advances in Methods and Practices in Psychological Science*: [Fast-Track Your Abstract Screening: Mastering ASReview](https://doi.org/10.1177/25152459261442150)
 :::
 

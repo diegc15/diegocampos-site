@@ -14,15 +14,6 @@ title: "Publications"
   <div class="pub-entry">
     <div class="pub-year">review</div>
     <div class="pub-content">
-      <div class="pub-title">Educational Inequality Across Countries: An Integrative Data Analysis of TIMSS 2023 Data</div>
-      <div class="pub-authors">Patsis, P., <strong>Campos, D. G.</strong>, &amp; Scherer, R.</div>
-      <div class="pub-journal"><em>Manuscript under review</em></div>
-    </div>
-  </div>
-
-  <div class="pub-entry">
-    <div class="pub-year">review</div>
-    <div class="pub-content">
       <div class="pub-title">The Relationship Between Socioeconomic Factors and Parent's and Child Oral Language: A Systematic Review and Meta-Analysis</div>
       <div class="pub-authors">Maurer, M., <strong>Campos, D. G.</strong>, Gowenlock, A., Norbury, C., &amp; Melby-Lervåg, M.</div>
       <div class="pub-journal"><em>Manuscript under review</em></div>
@@ -47,6 +38,18 @@ title: "Publications"
 
 ```{=html}
 <div class="pub-list">
+
+  <div class="pub-entry">
+    <div class="pub-year">2026</div>
+    <div class="pub-content">
+    <div class="pub-title"><a href="https://doi.org/10.1016/j.stueduc.2026.101683" target="_blank">Educational Inequality Across Countries: An Integrative Data Analysis of TIMSS 2023 Data</a></div>
+      <div class="pub-authors">Patsis, P., <strong>Campos, D. G.</strong>, &amp; Scherer, R.</div>
+      <div class="pub-journal"><em>Studies in Educational Evaluation</em>, 91</div>
+      <div class="pub-links">
+        <a href="https://doi.org/10.1016/j.stueduc.2026.101683" class="pub-btn" target="_blank"><i class="fas fa-file-alt"></i> Journal</a>
+    </div>
+  </div>
+
 
   <div class="pub-entry">
     <div class="pub-year">2026</div>
